@@ -1,1 +1,1 @@
-# M1_Project_Gaming
+# M1_Game_Rubiks
