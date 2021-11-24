@@ -56,7 +56,7 @@ O(N), the amount of memory needed to run the algorithm i.e, space complexity.
 
 ## Defining system
 
-![defining system](https://github.com/Lalitha74/L-T-MINI-PROJECT/blob/main/1_Requirements/Defining%20system.png)
+![defining system](https://github.com/harsha6534/M1_Game_Rubiks.git/blob/main/1_Requirements/Defining%20system.png)
 
 ## Explanation
   ### Hotel Management Features
@@ -69,7 +69,7 @@ O(N), the amount of memory needed to run the algorithm i.e, space complexity.
 
 ## SWOT Analysis
 
-<img width="750" alt="SWOT" src="https://github.com/Lalitha74/L-T-MINI-PROJECT/blob/main/1_Requirements/SWOT.PNG">
+<img width="750" alt="SWOT" src="https://github.com/harsha6534/M1_Game_Rubiks.git/blob/main/1_Requirements/SWOT.PNG">
 
 
 ## 4W's and 1'H
