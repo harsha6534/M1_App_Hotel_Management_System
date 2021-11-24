@@ -1,4 +1,4 @@
-# L-T-MINI-PROJECT
+# PROJECT
 
 # HOTEL MANAGEMENT SYSTEM
 
@@ -35,7 +35,7 @@ system very flexible and convenient. To manage the entire activities manually on
 
 Build | Code Quality | Build Status | Git Inspector
 |---------|------------|-----------|----------
-[![C/C++ CI](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/c-build.yml/badge.svg)](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/c-build.yml)|[![Static Code Quality- Cppcheck](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/main.yml/badge.svg)](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/main.yml)|[![C/C++ CI - Build Status](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/c.yml/badge.svg)](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/c.yml)|[![Contribution Check - Git Inspector](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/Gitinspector.yml/badge.svg)](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/Gitinspector.yml)
+[![C/C++ CI](https://github.com/harsha6534/M1_Game_Rubiks.git/actions/workflows/c-build.yml/badge.svg)](https://github.com/harsha6534/M1_Game_Rubiks.git/actions/workflows/c-build.yml)|[![Static Code Quality- Cppcheck](https://github.com/harsha6534/M1_Game_Rubiks.git/actions/workflows/main.yml/badge.svg)](https://github.com/harsha6534/M1_Game_Rubiks.git/actions/workflows/main.yml)|[![C/C++ CI - Build Status](https://github.com/harsha6534/M1_Game_Rubiks.git/actions/workflows/c.yml/badge.svg)](https://github.com/harsha6534/M1_Game_Rubiks.git/actions/workflows/c.yml)|[![Contribution Check - Git Inspector](https://github.com/harsha6534/M1_Game_Rubiks.git/actions/workflows/Gitinspector.yml/badge.svg)](https://github.com/harsha6534/M1_Game_Rubiks.git/actions/workflows/Gitinspector.yml)
 
 
 
@@ -43,7 +43,7 @@ Build | Code Quality | Build Status | Git Inspector
 
 CI | Code Quality Score | Code Grade
 |---------|------------|-----------
-[![CI](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/main2.yml/badge.svg)](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/main2.yml)|![Code Quality Score](https://www.code-inspector.com/project/24936/score/svg)|![Code Grade](https://www.code-inspector.com/project/24936/status/svg)
+[![CI](https://github.com/harsha6534/M1_Game_Rubiks.git/actions/workflows/main2.yml/badge.svg)](https://github.com/harsha6534/M1_Game_Rubiks.git/actions/workflows/main2.yml)|![Code Quality Score](https://www.code-inspector.com/project/24936/score/svg)|![Code Grade](https://www.code-inspector.com/project/24936/status/svg)
 
       
       
