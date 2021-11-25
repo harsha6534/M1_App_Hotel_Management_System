@@ -1,1 +1,1 @@
-# M1_Game_Rubiks
+# M1_App_Hotel_Management_System
